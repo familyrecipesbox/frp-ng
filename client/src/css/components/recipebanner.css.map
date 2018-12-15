@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,aAAc;EACZ,UAAU,EAAE,yDAAyD;EACrE,eAAe,EAAE,OAAO",
+"sources": ["../../sass/components/recipebanner.scss"],
+"names": [],
+"file": "recipebanner.css"
+}
