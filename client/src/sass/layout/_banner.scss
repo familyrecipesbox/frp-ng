@@ -1,4 +1,7 @@
 .recipes-banner{
-    background: url(../../assets/images/AdobeStock_195323939.jpeg) repeat;
+    background: url(/assets/images/AdobeStock_195323939.jpeg) repeat;
     background-size: contain;
+    height: 100px;
 }
+
+$body-bg: transparent; 
